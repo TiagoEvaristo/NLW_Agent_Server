@@ -25,9 +25,6 @@ export const getRoomsQuestions: FastifyPluginCallbackZod = (app)=> {
             .where(eq(schema.questions.roomId, roomId))
             .orderBy(desc(schema.questions.createdAt))
             
-        return reply.status(200).send({
-            questions: results,
-            roomId: roomId,
-        })
+        return results
     })
 }

@@ -15,6 +15,27 @@
       "when": 1752172299801,
       "tag": "0001_broken_lily_hollister",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752428791408,
+      "tag": "0002_overjoyed_johnny_blaze",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1752430325959,
+      "tag": "0003_dry_longshot",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1752431221058,
+      "tag": "0004_mean_vivisector",
+      "breakpoints": true
     }
   ]
 }
